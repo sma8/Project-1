@@ -1,2 +1,0 @@
-This is being written in the text file.
-I am using vi to write this sentence, to see if it will be saved in github.
